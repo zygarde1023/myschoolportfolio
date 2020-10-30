@@ -8,6 +8,10 @@ switch ($demo) {
     case 'svgtxt' :
 		$content 	= 'svgtextart.php';
 		break;
+        
+    case 'svgamt' :
+		$content 	= 'svgtextart.php';
+		break;
 		
 	case 'skw' :
 		$content 	= 'skewcss.php';
