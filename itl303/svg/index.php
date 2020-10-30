@@ -10,7 +10,7 @@ switch ($demo) {
 		break;
         
     case 'svgamt' :
-		$content 	= 'svgtextart.php';
+		$content 	= 'svganimation.php';
 		break;
 		
 	case 'skw' :
