@@ -50,7 +50,7 @@ switch ($demo) {
 		break;
 	
     case 'cle' :
-		$content 	= 'index.html';
+		$content 	= 'clecss.php';
 		break;
 		
 	default :
