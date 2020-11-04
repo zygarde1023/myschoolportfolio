@@ -48,11 +48,9 @@ switch ($demo) {
     case '3da' :
 		$content 	= 'css3danimation.php';
 		break;
-    
-    
 	
-	case 'update' :
-		$content 	= 'update.php';
+    case 'cle' :
+		$content 	= 'index.html';
 		break;
 		
 	default :
