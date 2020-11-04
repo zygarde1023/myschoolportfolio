@@ -50,7 +50,7 @@ li a:hover {
             <li><a href="index.php?view=css&demo=3dt">CSS 3D Transform</a></li>
             <li><a href="index.php?view=css&demo=3dm">CSS 3D Matrix</a></li>
             <li><a href="index.php?view=css&demo=3da">CSS 3D Animation</a></li>
-            <li><a href="index.php?view=css&demo=clecss">CLE 1 CSS </a></li>
+            <li><a href="index.php?view=css&demo=cle">CLE 1 CSS </a></li>
         </ul>
     </div>
     <div class="con">
