@@ -9,8 +9,7 @@
     </div>
     <div class="nav">
         <a href="#"><button type="button" class="btn" >Empty</button></a>
-        <a href="#"><button type="button" class="btn" >Empty</button></a>
-        
+        <a href="index.php?view=html5"><button type="button" class="btn" >HTML5</button></a>
         <a href="index.php?view=svg"><button type="button" class="btn" >SVG</button></a>
         <a href="index.php?view=css"><button type="button" class="btn" >CSS</button></a>
         <a href="index.php"><button type="button" class="btn" >Homepage</button></a>
