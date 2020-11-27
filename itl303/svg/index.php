@@ -1,7 +1,7 @@
 <?php
 $demo = isset($_GET['demo']) ? $_GET['demo'] : '';
 switch ($demo) {
-	case 'svgcom' :
+    case 'svgcom' :
 		$content 	= 'svgcombi.php';
 		break;
         
@@ -12,11 +12,10 @@ switch ($demo) {
     case 'svgamt' :
 		$content 	= 'svganimation.php';
 		break;
-		
-	case 'skw' :
-		$content 	= 'skewcss.php';
+    
+    case 'svgcle' :
+		$content 	= 'svgcle.php';
 		break;
-	
 	
 
 		
