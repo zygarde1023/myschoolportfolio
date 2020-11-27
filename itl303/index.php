@@ -9,6 +9,10 @@ switch ($view) {
 		$content 	= 'svg/index.php';
 		break;
 		
+	case 'html5' :
+		$content 	= 'html5/index.php';
+		break;
+		
 	default :
 		$content 	= 'main.php';
 }
