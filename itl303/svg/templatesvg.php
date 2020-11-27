@@ -41,10 +41,7 @@ li a:hover {
             <li><a href="index.php?view=svg&demo=svgcom">SVG Combinations</a></li>
             <li><a href="index.php?view=svg&demo=svgtxt">SVG Text Art</a></li>
             <li><a href="index.php?view=svg&demo=svgamt">SVG Animation</a></li>
-            <li><a href="index.php?view=svg&demo=svgcle">SVG CLE</a></li>
-            <li><a href="#">EMPTY</a></li>
-            <li><a href="#">EMPTY</a></li>
-            <li><a href="#">EMPTY</a></li>
+            <li><a href="index.php?view=svg&demo=svgcle">SVG CLE 2</a></li>
         </ul>
     </div>
     <div class="con">
