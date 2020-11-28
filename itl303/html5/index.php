@@ -1,8 +1,8 @@
 <?php
 $demo = isset($_GET['demo']) ? $_GET['demo'] : '';
 switch ($demo) {
-	case 'svgcom' :
-		$content 	= 'svgcombi.php';
+	case 'html5com' :
+		$content 	= 'htmlcombo.php';
 		break;
   
 		
