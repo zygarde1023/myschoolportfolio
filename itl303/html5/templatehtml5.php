@@ -35,16 +35,10 @@ li a:hover {
 }
 </style>
 <body>
-    <div><h2>HTML5 Demo</h2></div>
+    <div><h2>CANVAS Demo</h2></div>
     <div class="nv" style="border: 5px;">
         <ul>
-            <li><a href="index.php?view=html5&demo=html5com">HTML5 Canvas Combination</a></li>
-            <li><a href="#">EMPTY</a></li>
-            <li><a href="#">EMPTY</a></li>
-            <li><a href="#">EMPTY</a></li>
-            <li><a href="#">EMPTY</a></li>
-            <li><a href="#">EMPTY</a></li>
-            <li><a href="#">EMPTY</a></li>
+            <li><a href="index.php?view=html5&demo=html5com">CANVAS Combination</a></li>
         </ul>
     </div>
     <div class="con">
