@@ -12,6 +12,10 @@ switch ($view) {
 	case 'html5' :
 		$content 	= 'html5/index.php';
 		break;
+        
+    	case 'ata' :
+		$content 	= 'aboutme.php';
+		break;
 		
 	default :
 		$content 	= 'main.php';
